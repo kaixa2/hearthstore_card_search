@@ -1,0 +1,20 @@
+# Python 编译文件
+__pycache__/
+*.py[cod]
+
+# PyCharm 配置文件夹
+.idea/
+
+# 虚拟环境
+venv/
+env/
+
+# 环境变量文件
+.env
+
+# 打包生成的文件
+dist/
+build/
+*.egg-info/
+
+my_pets/
